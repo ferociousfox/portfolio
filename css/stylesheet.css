@@ -1,3 +1,7 @@
+.interests {
+  margin: 100px
+}
+
 .interests img {
   float: left;
 }
@@ -12,4 +16,7 @@
 .jumbotron {
   background-color: #d5e4ea;
 
+}
+h3 {
+  text-align: center;
 }
