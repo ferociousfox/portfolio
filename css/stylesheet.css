@@ -1,0 +1,14 @@
+.interests img {
+  float: left;
+}
+
+.box {
+  margin: 50px;
+  border: 4px solid #135863;
+  padding: 2px;
+  background-color: #d5e4ea;
+}
+
+.jumbotron {
+
+}
